@@ -1,0 +1,14 @@
+﻿{
+  "displayName": "round_blockdash",
+  "file": "round_blockdash",
+  "prefab": "round_blockdash",
+  "skybox": "New Material 1",
+  "ambientMode": "3",
+  "ambientLight": "0.4150943 0.4150943 0.4150943 1",
+  "fog": "false",
+  "fogDensity": "0.01",
+  "fogColor": "0.5 0.5 0.5 1",
+  "musicBank": "",
+  "musicEvent": "",
+  "musicStringsBank": ""
+}
