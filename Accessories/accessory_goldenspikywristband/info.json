@@ -1,6 +1,7 @@
-{
+﻿{
   "name": "Golden Spiky Wristband",
-  "type": "accessory",
   "author": "DriftBone",
-  "file": "skin_goldenspikywristband"
+  "description": "",
+  "file": "accessory_goldenspikes",
+  "type": "accessory"
 }

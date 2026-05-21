@@ -1,6 +1,7 @@
-{
+﻿{
   "name": "Devil Horns",
-  "type": "accessory",
-  "author": "oreytv",
-  "file": "skin_devilhorns"
+  "author": "oreyre",
+  "description": "muahahhaahha",
+  "file": "accessory_devilhorns",
+  "type": "accessory"
 }
